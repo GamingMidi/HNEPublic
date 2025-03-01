@@ -35,4 +35,4 @@ This is a fan-made project based on Hello Neighbor 1 Alpha, and is not affiliate
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to me at [your-email@example.com].
+If you have any questions or feedback, feel free to reach out to me at [elijahwarner54@gmail.com].
